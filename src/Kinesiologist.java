@@ -1,9 +1,3 @@
-/*
-Name: Ahmed Alhuthaify
-Id: 2137574
-Section: F4
-Assignment No.: 2
-*/
 class Kinesiologist extends FitnessExpert{
     private int experianceYears;
 
