@@ -1,0 +1,219 @@
+
+Welcome to the Gymnasium Appointment System!
+
+
+COMMAND: SET THERAPIST
+
+Name: Ahmed Ali Added!
+Name: Osama Basem Added!
+Name: Talal Ammar Added!
+Name: Yaser Anwar Added!
+Name: Wed Bassam Added!
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: SET KINESIOLOGIST
+
+Name: Layla Ali Added!
+Name: Mohammed Ahmed Added!
+Name: Ammar kalid Added!
+Name: Hala Bassam Added!
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: SET TRAINEES
+
+Name: Omar Anwar Added!
+Name: Adel Hassan Added!
+Name: Nour Yazan Added!
+Name: Saleh Esmael Added!
+Name: Basma Kamel Added!
+Name: Adel Mustafa Added!
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: SET GIMNASIUM
+
+ Gimnasium: Number :  1 Floor: 2 
+ Gimnasium: Number :  2 Floor: 4 
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: SET APPOINTMENTS
+
+	 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 10:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 11:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 12:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 17:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 18:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 19:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 13/3/2023 Time: 10:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 13/3/2023 Time: 11:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 13/3/2023 Time: 12:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 13/3/2023 Time: 17:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 13/3/2023 Time: 18:00 
+	 Gimnasium: Number :  1 Floor: 2  Date: 13/3/2023 Time: 19:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 12/3/2023 Time: 10:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 12/3/2023 Time: 11:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 12/3/2023 Time: 12:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 12/3/2023 Time: 17:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 12/3/2023 Time: 18:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 12/3/2023 Time: 19:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 13/3/2023 Time: 10:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 13/3/2023 Time: 11:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 13/3/2023 Time: 12:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 13/3/2023 Time: 17:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 13/3/2023 Time: 18:00 
+	 Gimnasium: Number :  2 Floor: 4  Date: 13/3/2023 Time: 19:00 
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment for Trainee Omar Anwar is done
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment not found in the Gimnasium appointment list
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment for Trainee Omar Anwar is done
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment for Trainee Adel Hassan is done
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment is taken by other Trainee
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Trainee Omar Ali is not registered
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment for Trainee Omar Anwar can not be added as he has 2 appointment registered
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT TRAINEE APPOINTMENTS RECORD
+
+Appointment for Omar Anwar are: 
+
+  Appointment number: 1 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 11:00 
+
+  Appointment number: 2 Gimnasium: Number :  1 Floor: 2  Date: 13/3/2023 Time: 19:00 
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment for Trainee Saleh Esmael is done
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment for Trainee Saleh Esmael is done
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT TRAINEE APPOINTMENTS RECORD
+
+Appointment for Saleh Esmael are: 
+
+  Appointment number: 1 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 17:00 
+
+  Appointment number: 2 Gimnasium: Number :  2 Floor: 4  Date: 12/3/2023 Time: 19:00 
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: CANCEL APPOINTMENT
+
+Appointment for Trainee Saleh Esmael is Canceled 
+Appointment is Canceled from the Gimnasium appointment list and available for other Trainees
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT TRAINEE APPOINTMENTS RECORD
+
+Appointment for Saleh Esmael are: 
+
+  Appointment number: 1 Gimnasium: Number :  2 Floor: 4  Date: 12/3/2023 Time: 19:00 
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: CANCEL APPOINTMENT
+
+Appointment not found in Trainee Saleh Esmael records
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: CANCEL APPOINTMENT
+
+Trainee Adel adel is not registered
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: RESERVE APPOINTMENT
+
+Appointment for Trainee Basma Kamel is done
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT TRAINEE APPOINTMENTS RECORD
+
+Appointment for Basma Kamel are: 
+
+  Appointment number: 1 Gimnasium: Number :  1 Floor: 2  Date: 12/3/2023 Time: 17:00 
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT TRAINEE APPOINTMENTS RECORD
+
+Trainee Omar Ali is not registered
+
+
+------------------------------------------------------------------------------------------------------
+
+COMMAND: PRINT TRAINEE APPOINTMENTS RECORD
+
+Appointment for Nour Yazan are: 
+
+Trainee Nour Yazan has no appointent 
+
+------------------------------------------------------------------------------------------------------
+
+
+Thank you for using the Gymnasium appointment System, Good Bye!
