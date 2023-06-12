@@ -1,9 +1,4 @@
-/*
-Name: Ahmed Alhuthaify
-Id: 2137574
-Section: F4
-Assignment No.: 2
-*/
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
